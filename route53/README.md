@@ -1,6 +1,6 @@
-# ECS
+# Route53
 
-This directory contains the minimum code to setup a new RDS in AWS.
+This directory contains the minimum code to setup a new Route53 in AWS.
 
 After apply the code, you should be able to see the next resources:
 

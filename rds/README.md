@@ -1,4 +1,4 @@
-# ECS
+# RDS
 
 This directory contains the minimum code to setup a new RDS in AWS.
 
