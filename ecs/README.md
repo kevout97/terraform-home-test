@@ -57,4 +57,4 @@ _For testing purposes this project uses the local state, however for shared envi
 
 Once the apply finishes you should be able to see the nginx index after logging into the ALB domain.
 
-![nginx]](images/nginx.png)
+![nginx](images/nginx.png)
